@@ -17,4 +17,4 @@ Some notebooks touch on topics such as:
 
 ## Usage
 
-Open the notebooks in JupyterLab, VS Code, or another compatible notebook environment.
+Open the `.ipynb` files in JupyterLab, VS Code, or another compatible notebook environment.
